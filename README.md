@@ -9,6 +9,9 @@ I have created this App in a Udacity beginner's Android course.
 More info on the USGS Earthquake API available at:
 https://earthquake.usgs.gov/fdsnws/event/1/
 
+Download .apk file from here - 
+https://github.com/mahajan-pooja/Quake-Report/blob/gh-pages/app-debug.apk
+
 Pre-requisites
 --------------
 
