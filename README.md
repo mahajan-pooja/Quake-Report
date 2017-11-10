@@ -27,5 +27,5 @@ This sample uses the Gradle build system. To build this project, use the
 
 SCREENSHOTS:
 
-![alt 1](screenshots/img1.png)
-![alt 2](screenshots/img2.png)
+![alt 1](screenshots/img1.jpg)
+![alt 2](screenshots/img2.jpg)
